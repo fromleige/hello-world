@@ -1,4 +1,2 @@
 # hello-world
-# Open please for you 1st go to github.com websides.
-# another:leige
-# version:beta-master.
+# My please the ones of the github. Could please hopes.
