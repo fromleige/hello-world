@@ -14,6 +14,7 @@ class Pro{
    friend void f(int xorg);
    public:
      Pro(int &args,int &value):begins(args),ends(value){}
+     int fort()const {return begins*end;}
    private:
      int begins=0;
      int ends=1;
