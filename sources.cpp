@@ -15,6 +15,7 @@ class Pro{
    public:
      Pro(int &args,int &value):begins(args),ends(value){}
      int fort()const {return begins*end;}
+     Pro operator=(const Pro&);
    private:
      int begins=0;
      int ends=1;
@@ -40,4 +41,13 @@ void f(int xorg)
      xorg == 1; 
      else
       xorg++; 
+}
+
+
+Pro
+Pro::operator=(const Pro& files)
+{
+   begins = files.begins;
+   ends = files.ends;
+   return files;
 }
