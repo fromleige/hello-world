@@ -1,4 +1,2 @@
 # hello-world
-My please the ones of the github. Could please hopes.
-At for leige get to into men.
-Of you cources at the test codes.
+  这个项目只是来测试github用不用得起的， 请大佬莫要见怪
